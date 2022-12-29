@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/stars/XiuwenZ/lists/projects](https://github.com/stars/XiuwenZ/lists/projects)
 
-- 📫 How to reach me **zhuxiuwen6@gmail.com**
+- 📫 Reach me: **zhuxiuwen6@gmail.com**
 
 - 📄 My Resume: [https://drive.google.com/file/d/1l72lL354tfHM4GwK-SWP7xNB82AbowDh/view](https://drive.google.com/file/d/1l72lL354tfHM4GwK-SWP7xNB82AbowDh/view)
 

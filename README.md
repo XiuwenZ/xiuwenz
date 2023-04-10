@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 - 📄 My Resume: [https://drive.google.com/file/d/1l72lL354tfHM4GwK-SWP7xNB82AbowDh/view](https://drive.google.com/file/d/1l72lL354tfHM4GwK-SWP7xNB82AbowDh/view)
 
-- ⚡ Fun Fact: **I am more into bubble tea after working at a tea shop.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

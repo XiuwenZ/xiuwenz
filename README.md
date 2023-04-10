@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 📫 Reach me: **zhuxiuwen6@gmail.com**
 
-- 📄 My Resume: [https://drive.google.com/file/d/1l72lL354tfHM4GwK-SWP7xNB82AbowDh/view](https://drive.google.com/file/d/1l72lL354tfHM4GwK-SWP7xNB82AbowDh/view)
+- 📄 [Resume](https://drive.google.com/file/d/18NcjPOalsydUNivWtRAPG7d6sSnqtsHU/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>

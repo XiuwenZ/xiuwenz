@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Xiuwen Zhu</h1>
 <h3 align="center">A passionate developer and studying Computer Science at Brooklyn College</h3>
-
+<!--
 - 🌱 I’m currently learning **Flutter and JavaScript.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/stars/XiuwenZ/lists/projects](https://github.com/stars/XiuwenZ/lists/projects)
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 📫 Reach me: **zhuxiuwen6@gmail.com**
 
 - 📄 [Resume](https://drive.google.com/file/d/18NcjPOalsydUNivWtRAPG7d6sSnqtsHU/view?usp=sharing)
-
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
